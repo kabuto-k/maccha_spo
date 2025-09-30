@@ -1,0 +1,5 @@
+{
+  "name": "Matcha Latte Spotter",
+  "description": "An application to discover cafes and restaurants near your current location that have Matcha Latte on their menu. Users can save visited places, leave reviews, and get recommendations.",
+  "requestFramePermissions": []
+}
